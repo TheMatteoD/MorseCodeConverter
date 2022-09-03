@@ -1,0 +1,14 @@
+D:\Repos\MorseCodeConverter\MorseCodeConverterProject\bin\Debug\netcoreapp3.1\MorseCodeConverterProject.exe
+D:\Repos\MorseCodeConverter\MorseCodeConverterProject\bin\Debug\netcoreapp3.1\MorseCodeConverterProject.deps.json
+D:\Repos\MorseCodeConverter\MorseCodeConverterProject\bin\Debug\netcoreapp3.1\MorseCodeConverterProject.runtimeconfig.json
+D:\Repos\MorseCodeConverter\MorseCodeConverterProject\bin\Debug\netcoreapp3.1\MorseCodeConverterProject.runtimeconfig.dev.json
+D:\Repos\MorseCodeConverter\MorseCodeConverterProject\bin\Debug\netcoreapp3.1\MorseCodeConverterProject.dll
+D:\Repos\MorseCodeConverter\MorseCodeConverterProject\bin\Debug\netcoreapp3.1\MorseCodeConverterProject.pdb
+D:\Repos\MorseCodeConverter\MorseCodeConverterProject\obj\Debug\netcoreapp3.1\MorseCodeConverterProject.csproj.AssemblyReference.cache
+D:\Repos\MorseCodeConverter\MorseCodeConverterProject\obj\Debug\netcoreapp3.1\MorseCodeConverterProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\MorseCodeConverter\MorseCodeConverterProject\obj\Debug\netcoreapp3.1\MorseCodeConverterProject.AssemblyInfoInputs.cache
+D:\Repos\MorseCodeConverter\MorseCodeConverterProject\obj\Debug\netcoreapp3.1\MorseCodeConverterProject.AssemblyInfo.cs
+D:\Repos\MorseCodeConverter\MorseCodeConverterProject\obj\Debug\netcoreapp3.1\MorseCodeConverterProject.csproj.CoreCompileInputs.cache
+D:\Repos\MorseCodeConverter\MorseCodeConverterProject\obj\Debug\netcoreapp3.1\MorseCodeConverterProject.dll
+D:\Repos\MorseCodeConverter\MorseCodeConverterProject\obj\Debug\netcoreapp3.1\MorseCodeConverterProject.pdb
+D:\Repos\MorseCodeConverter\MorseCodeConverterProject\obj\Debug\netcoreapp3.1\MorseCodeConverterProject.genruntimeconfig.cache
